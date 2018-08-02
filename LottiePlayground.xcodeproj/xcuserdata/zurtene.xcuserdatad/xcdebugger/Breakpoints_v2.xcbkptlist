@@ -1,0 +1,3287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.593524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.263226"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1094">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.580753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1094">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.593949"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "-initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "554217614.087341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "911">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "554217614.324958"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "911">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.594246"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "554217614.1471061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "731">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initWithModel:inLayerGroup:withLayerGroup:withAssestGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "554217614.329156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "731">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.594547"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.3025"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.591464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "347">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.5948859"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.308859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "782">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.5951951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "782">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.59526"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.316372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "661">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.5988081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "661">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.59574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.32302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.603042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "858">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.596158"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.3289191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1085">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.606671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1085">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.596486"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.335471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.6107709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.596848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.342199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1269">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.613964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.597187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.3491729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.617501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.597517"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.355119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1395">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.621714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1395">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.597913"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.361017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.624977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.598223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.367383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1769">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.628016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1769">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.598536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.373498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1804">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522151.6312129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.625715"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-initWithModel:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer initWithModel:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.381565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer initWithModel:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.6348079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.625825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.3872629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.6376801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.625895"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.39204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "883">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.640626"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "883">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.625958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.4007601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.6437989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626018"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.4062769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1302">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.647076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1302">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "+transformForLayer:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.411967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.650877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "+transformForLayer:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.41851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.654488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "+transformForLayer:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.4230421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.657194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626142"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.427475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1241">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.6601681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673651"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "+transformForLayer:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.432541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[LOTTransformInterpolator transformForLayer:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.664345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673703"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-initializeWithPositionX:positionY:position:rotation:anchor:scale:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initializeWithPositionX:positionY:position:rotation:anchor:scale:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.436693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "430">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initializeWithPositionX:positionY:position:rotation:anchor:scale:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548522151.66864"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "430">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673751"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.454847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.6467839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.461217"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.650162"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.6738451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.466936"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "442">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.653589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "442">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.6738909"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.472613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.657075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673937"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.485466"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "526">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.663245"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "526">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.673992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.491038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.66734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "-displayWithFrame:forceUpdate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548531114.496779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "965">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548531114.671333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "965">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "-displayWithFrame:forceUpdate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522151.492937"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522152.056513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.6264729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "-setValueDelegate:forKeypath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer setValueDelegate:forKeypath:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.1720231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer setValueDelegate:forKeypath:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.332809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "169">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626534"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "-setValueDelegate:forKeypath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer setValueDelegate:forKeypath:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.177577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "304"
+                  endingLineNumber = "304"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer setValueDelegate:forKeypath:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.336416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "304"
+                  endingLineNumber = "304"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "-searchNodesForKeypath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer searchNodesForKeypath:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.194158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer searchNodesForKeypath:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.3403471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.600466"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-initializeWithChildGroup:withAssetGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522168.272501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1287">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer initializeWithChildGroup:withAssetGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "548522168.27509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1287">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.6266741"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-initWithModel:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer initWithModel:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548528427.628803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1037">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer initWithModel:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548528427.852792"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1037">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.313913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2544">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.428988"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.6267999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "-buildContents:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer buildContents:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548528427.6489069"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer buildContents:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548528427.863646"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "-_setImageForAsset:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer _setImageForAsset:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522307.861918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "1233">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer _setImageForAsset:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "548522307.864544"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "1233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.6268899"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-_setImageForAsset:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer _setImageForAsset:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.200563"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "1163">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer _setImageForAsset:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.3436821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "1163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.626935"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "-_setImageForAsset:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+            timestampString = "548599919.601576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "-performLocalUpdate"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.541696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.702896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+            timestampString = "548599919.601653"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-performLocalUpdate"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.5473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "405">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.706795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+            timestampString = "548599919.601722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-performLocalUpdate"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.551769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "723">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTRenderGroup performLocalUpdate]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m"
+                  timestampString = "548531114.710856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "723">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.674433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-initWithPosition:rotation:anchor:scale:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.556533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531114.715059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.674515"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-initWithPosition:rotation:anchor:scale:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053683.3284349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1479">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053683.435241"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1479">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+            timestampString = "554053683.101172"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-initWithJSON:withAssetGroup:withFramerate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer initWithJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548529720.908478"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer initWithJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548529722.003157"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+            timestampString = "554053683.101577"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-_mapFromJSON:withAssetGroup:withFramerate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548529720.9145451"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "5661">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548529722.006889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "5661">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+            timestampString = "554053683.101818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "-_mapFromJSON:withAssetGroup:withFramerate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548531114.567127"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "8705">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "548531114.723039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "8705">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+            timestampString = "548599919.6022"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "-updateKeyframeSpanForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTValueInterpolator updateKeyframeSpanForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+                  timestampString = "554217614.208481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1995">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTValueInterpolator updateKeyframeSpanForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+                  timestampString = "554217614.34684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1995">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+            timestampString = "548599919.602277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "-updateKeyframeSpanForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTValueInterpolator updateKeyframeSpanForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+                  timestampString = "548579634.902271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTValueInterpolator updateKeyframeSpanForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m"
+                  timestampString = "548579634.995114"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.674675"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "-transformForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531129.431877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator transformForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "548531129.4348381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "298">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.m"
+            timestampString = "554219648.627116"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-initWithInputNode:shapeFill:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTFillRenderer initWithInputNode:shapeFill:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.m"
+                  timestampString = "554217614.213474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1759">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTFillRenderer initWithInputNode:shapeFill:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.m"
+                  timestampString = "554217614.3505501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1759">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+            timestampString = "553358554.648559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-pointValueForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "554217614.219133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "554217614.355206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+            timestampString = "553358554.649076"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-pointValueForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "550318768.111238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "550318768.469587"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+            timestampString = "553358554.649362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-pointValueForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "550318768.11515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1650">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTPointInterpolator pointValueForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m"
+                  timestampString = "550318768.4725291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1650">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+            timestampString = "548599919.6027091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-displayWithFrame:forceUpdate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "550318768.120115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTCompositionContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.m"
+                  timestampString = "550318768.475783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+            timestampString = "554053683.102405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-_mapFromJSON:withAssetGroup:withFramerate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "553358682.704224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "7671">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayer _mapFromJSON:withAssetGroup:withFramerate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/Models/LOTLayer.m"
+                  timestampString = "553358682.797459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "7671">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.627225"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.34671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "2402">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.444543"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "2402">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.627296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.3529609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.448125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.627364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.357345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "2078">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554053683.451772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "2078">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.674879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-initWithPosition:rotation:anchor:scale:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053683.367573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "598">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053683.458903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "598">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.m"
+            timestampString = "553376572.664354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-sizeValueForFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTSizeInterpolator sizeValueForFrame:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.m"
+                  timestampString = "553359797.03142"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1511">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTSizeInterpolator sizeValueForFrame:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.m"
+                  timestampString = "553359797.0332741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1511">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+            timestampString = "554745096.674986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "-initWithPosition:rotation:anchor:scale:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053714.073947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1499">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTTransformInterpolator initWithPosition:rotation:anchor:scale:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m"
+                  timestampString = "554053714.077253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1499">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.627485"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "-displayWithFrame:forceUpdate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.224607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "569">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer displayWithFrame:forceUpdate:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.358507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "569">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+            timestampString = "554219648.627547"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "-commonInitializeWith:inLayerGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "LottiePlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.229516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2865">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LOTLayerContainer commonInitializeWith:inLayerGroup:]"
+                  moduleName = "Lottie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zurtene/LottiePlayground/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.m"
+                  timestampString = "554217614.4128031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2865">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

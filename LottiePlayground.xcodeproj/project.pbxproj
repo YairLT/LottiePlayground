@@ -13,7 +13,47 @@
 		0DE26DC120B1691B00A54B9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DE26DC020B1691B00A54B9E /* Assets.xcassets */; };
 		0DE26DC420B1691B00A54B9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DE26DC220B1691B00A54B9E /* LaunchScreen.storyboard */; };
 		0DE26DC720B1691B00A54B9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DE26DC620B1691B00A54B9E /* main.m */; };
+		0DE26E0820B16B2700A54B9E /* Lottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE26DFF20B16B1D00A54B9E /* Lottie.framework */; };
+		0DE26E0920B16B2D00A54B9E /* libLottie.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE26E0520B16B1D00A54B9E /* libLottie.a */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0DE26DFE20B16B1D00A54B9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 62CA59B81E3C173B002D7188;
+			remoteInfo = Lottie_iOS;
+		};
+		0DE26E0020B16B1D00A54B9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FAE1F7E61E428CBE002E0974;
+			remoteInfo = Lottie_macOS;
+		};
+		0DE26E0220B16B1D00A54B9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8C5379761FB471D100C1BC65;
+			remoteInfo = Lottie_tvOS;
+		};
+		0DE26E0420B16B1D00A54B9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 84FE12EF1E4C1485009B157C;
+			remoteInfo = LottieLibraryIOS;
+		};
+		0DE26E0620B16B1D00A54B9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6445B0D5207E0D4D00D84F6A;
+			remoteInfo = LottieLibraryMacOS;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0DE26DB420B1691B00A54B9E /* LottiePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottiePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -26,6 +66,7 @@
 		0DE26DC320B1691B00A54B9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DE26DC520B1691B00A54B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DE26DC620B1691B00A54B9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Lottie.xcodeproj; path = "lottie-ios/Lottie.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +74,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DE26E0920B16B2D00A54B9E /* libLottie.a in Frameworks */,
+				0DE26E0820B16B2700A54B9E /* Lottie.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,8 +85,10 @@
 		0DE26DAB20B1691B00A54B9E = {
 			isa = PBXGroup;
 			children = (
+				0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */,
 				0DE26DB620B1691B00A54B9E /* LottiePlayground */,
 				0DE26DB520B1691B00A54B9E /* Products */,
+				0DE26DD920B1693100A54B9E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -69,6 +114,25 @@
 				0DE26DC620B1691B00A54B9E /* main.m */,
 			);
 			path = LottiePlayground;
+			sourceTree = "<group>";
+		};
+		0DE26DD920B1693100A54B9E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0DE26DF720B16B1D00A54B9E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0DE26DFF20B16B1D00A54B9E /* Lottie.framework */,
+				0DE26E0120B16B1D00A54B9E /* Lottie.framework */,
+				0DE26E0320B16B1D00A54B9E /* Lottie.framework */,
+				0DE26E0520B16B1D00A54B9E /* libLottie.a */,
+				0DE26E0720B16B1D00A54B9E /* libLottie.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -116,12 +180,56 @@
 			mainGroup = 0DE26DAB20B1691B00A54B9E;
 			productRefGroup = 0DE26DB520B1691B00A54B9E /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 0DE26DF720B16B1D00A54B9E /* Products */;
+					ProjectRef = 0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				0DE26DB320B1691B00A54B9E /* LottiePlayground */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		0DE26DFF20B16B1D00A54B9E /* Lottie.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Lottie.framework;
+			remoteRef = 0DE26DFE20B16B1D00A54B9E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		0DE26E0120B16B1D00A54B9E /* Lottie.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Lottie.framework;
+			remoteRef = 0DE26E0020B16B1D00A54B9E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		0DE26E0320B16B1D00A54B9E /* Lottie.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Lottie.framework;
+			remoteRef = 0DE26E0220B16B1D00A54B9E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		0DE26E0520B16B1D00A54B9E /* libLottie.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libLottie.a;
+			remoteRef = 0DE26E0420B16B1D00A54B9E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		0DE26E0720B16B1D00A54B9E /* libLottie.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libLottie.a;
+			remoteRef = 0DE26E0620B16B1D00A54B9E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		0DE26DB220B1691B00A54B9E /* Resources */ = {
@@ -220,6 +328,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/Lottie";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -272,6 +381,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/Lottie";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
