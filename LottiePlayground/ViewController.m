@@ -29,11 +29,12 @@
   [super viewDidLoad];
 
   _wrapper = [[UIView alloc] initWithFrame:CGRectZero];
+  self.view.backgroundColor = [UIColor blueColor];
   [self.view addSubview:self.wrapper];
-  _animation = [LOTAnimationView animationNamed:@"Lottie_Text_Bounce"];
+  _animation = [LOTAnimationView animationWithFilePath:@"/Users/ofermano/LottiePlayground/EVDAnimationInFlicker.json"];
   [self.wrapper addSubview:self.animation];
 
-  dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.3 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+  dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(1 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
     [self.animation playWithCompletion:^(BOOL animationFinished) {
       NSLog(@"completed");
     }];

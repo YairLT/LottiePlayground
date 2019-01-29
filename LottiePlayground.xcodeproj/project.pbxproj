@@ -15,6 +15,7 @@
 		0DE26DC720B1691B00A54B9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DE26DC620B1691B00A54B9E /* main.m */; };
 		0DE26E0820B16B2700A54B9E /* Lottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE26DFF20B16B1D00A54B9E /* Lottie.framework */; };
 		0DE26E0920B16B2D00A54B9E /* libLottie.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE26E0520B16B1D00A54B9E /* libLottie.a */; };
+		C5D165AE2112F0B3004F9F14 /* Lottie_Canvas_Dropdown_01.json in Resources */ = {isa = PBXBuildFile; fileRef = C5D165A82112F0B3004F9F14 /* Lottie_Canvas_Dropdown_01.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		0DE26DC520B1691B00A54B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DE26DC620B1691B00A54B9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0DE26DF620B16B1D00A54B9E /* Lottie.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Lottie.xcodeproj; path = "lottie-ios/Lottie.xcodeproj"; sourceTree = "<group>"; };
+		C5D165A82112F0B3004F9F14 /* Lottie_Canvas_Dropdown_01.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lottie_Canvas_Dropdown_01.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 		0DE26DD920B1693100A54B9E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C5D165A82112F0B3004F9F14 /* Lottie_Canvas_Dropdown_01.json */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			files = (
 				0DE26DC420B1691B00A54B9E /* LaunchScreen.storyboard in Resources */,
 				0DE26DC120B1691B00A54B9E /* Assets.xcassets in Resources */,
+				C5D165AE2112F0B3004F9F14 /* Lottie_Canvas_Dropdown_01.json in Resources */,
 				0DE26DBF20B1691B00A54B9E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
